@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <body>
+
+<h1> About Leylanie Cob</h1>
+
+<p> My name is Leylanie and I am <b>lazy</b>, <b>sarcastic</b>, and <b>smart</b> .</p>
+<hr width="100%" size="2">
+
+<h2> My classes this quarter</h2>
+<ul>
+    <li>Spanish </li>
+    <li>Math</li>
+    <li>IT</li>
+    <li>English</li>
+  </ul> 
+  <h2> My Favorite Series</h2>
+  <ol>
+    <li>Demon slayer</li>
+    <li>Mr. queen</li>
+    <li>The walking Dead</li>
+  </ol>
+
+  <h2> My moods</h2>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_DDr7kBevD9hqqeA8Nb172XRX1Czmmr-zw&s" height=20%>
+  <p> lazy </p>
+<img src="https://c1912z2808.r-cdn.com/blog/margo-gru-cute-female-cartoon-character.webp" height="40%" width="40%">
+<p> smart</p>
+
+<h2> Fun Facts about Me</h2>
+<ul>
+    <li> I like to play mobile games but I easily get mad:(</li>
+   
+    <li>I love watching cdramas</li>
+  </ul> 
+</body>
+</html>
